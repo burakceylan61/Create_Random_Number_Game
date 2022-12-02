@@ -1,0 +1,8 @@
+C:\Users\burak\Desktop\sayi_üretme\sayi_üretme\bin\Debug\sayi_üretme.exe.config
+C:\Users\burak\Desktop\sayi_üretme\sayi_üretme\bin\Debug\sayi_üretme.exe
+C:\Users\burak\Desktop\sayi_üretme\sayi_üretme\bin\Debug\sayi_üretme.pdb
+C:\Users\burak\Desktop\sayi_üretme\sayi_üretme\obj\Debug\sayi_üretme.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\sayi_üretme\sayi_üretme\obj\Debug\sayi_üretme.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\Desktop\sayi_üretme\sayi_üretme\obj\Debug\sayi_üretme.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\sayi_üretme\sayi_üretme\obj\Debug\sayi_üretme.exe
+C:\Users\burak\Desktop\sayi_üretme\sayi_üretme\obj\Debug\sayi_üretme.pdb
